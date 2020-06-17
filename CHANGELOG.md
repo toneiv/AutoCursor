@@ -1,5 +1,5 @@
 # Changelog
-<i>Version 0.8.4 (2094) - 08/06/2020</i><br>
+<i><a href="https://github.com/toneiv/AutoCursor/milestone/1">Version 0.8.4 (2094)</a> - 17/06/2020</i><br>
 • New: improved cursor drag functionality: ability to perform complex move<br>
 • New: animation when performing drag or move<br>
 • New: improved cursor trail fluidity<br>

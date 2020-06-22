@@ -1,4 +1,10 @@
 # Changelog
+<i><a href="https://github.com/toneiv/AutoCursor/milestone/2">Version 0.9.0 (2313)</a> - 22/06/2020</i><br>
+• New: possibility to choose the sensitivity to cursor movement<br>
+• New: Auto Cursor is available when Quick Settings is displayed<br>
+• Fixed: improved management of clicks and long clicks on triggers<br>
+• Overall efficiency and fluidity improvement<br>
+<br>
 <i>Version 0.8.5 (2136) - 18/06/2020</i><br>
 • Fixed: cursor will not interact with triggers or tracker while moving<br>
 • Fixed: cursor stopped working unexpectedly with some devices<br>

@@ -1,4 +1,7 @@
 # Changelog
+<i>Version 0.9.1 (2432) - 25/06/2020</i><br>
+• Fixed: the cursor did not display correctly in landscape mode<br>
+<br>
 <i><a href="https://github.com/toneiv/AutoCursor/milestone/2">Version 0.9.0 (2313)</a> - 22/06/2020</i><br>
 • New: possibility to choose the sensitivity to cursor movement<br>
 • New: Auto Cursor is available when Quick Settings is displayed<br>

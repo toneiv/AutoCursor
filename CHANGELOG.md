@@ -1,4 +1,11 @@
 # Changelog
+<i><a href="https://github.com/toneiv/AutoCursor/milestone/3">Version 0.9.2 (2646)</a> - 22/06/2020</i><br>
+• New:  possibility to choose the style for the tracker countdown<br>
+• New:  ability to precisely position the triggers as a percentage of the screen<br>
+• New:  live update of the trigger when changing its settings<br>
+• Fixed: enhanced precision when dragging the cursor<br>
+• Fixed: prevents accidental clicks when dragging the cursor<br>
+<br>
 <i>Version 0.9.1 (2432) - 25/06/2020</i><br>
 • Fixed: the cursor did not display correctly in landscape mode<br>
 <br>

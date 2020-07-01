@@ -1,4 +1,8 @@
 # Changelog
+<i><a href="https://github.com/toneiv/AutoCursor/milestone/4">Version 0.9.3 (2821)</a> - 01/07/2020</i><br>
+• New:  min delay for disapperance of cursor set to 200ms<br>
+• New: 2 shortcuts, show cursor left and show cursor right<br>
+<br>
 <i><a href="https://github.com/toneiv/AutoCursor/milestone/3">Version 0.9.2 (2646)</a> - 29/06/2020</i><br>
 • New:  possibility to choose the style for the tracker countdown<br>
 • New:  ability to precisely position the triggers as a percentage of the screen<br>

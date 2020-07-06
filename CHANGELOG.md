@@ -1,4 +1,14 @@
 # Changelog
+<i><a href="https://github.com/toneiv/AutoCursor/milestone/5">Version 1.0.0 (3110)</a> - 06/07/2020</i><br>
+• New:  ability to duplicate settings from one side to another (see Trigger / Template)<br>
+• New : ability to define action on double click on the tracker<br>
+• New : ability to define action on click outside the tracker<br>
+• New : ability to define action when clicking outside while pressing the tracker<br>
+• New : ability to define a vertical dynamic reference point for the tracker (see Cursor / Vartical reference point)<br>
+• New : ability to define waiting time for second action on each trigger (see Trigger / Actions)<br>
+• Fixed: the cursor launched with shortcuts did not always reach the side<br>
+• Fixed: the cursor launched with shortcuts wasn\'t set properly on landcape mode<br>
+<br>
 <i><a href="https://github.com/toneiv/AutoCursor/milestone/4">Version 0.9.3 (2821)</a> - 01/07/2020</i><br>
 • New:  min delay for disapperance of cursor set to 200ms<br>
 • New: 2 shortcuts, show cursor left and show cursor right<br>

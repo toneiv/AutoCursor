@@ -1,4 +1,7 @@
 # Changelog
+<i>Version 1.0.1 (3217) - 08/07/2020</i><br>
+• Various bug fixes and improvements<br>
+<br>
 <i><a href="https://github.com/toneiv/AutoCursor/milestone/5">Version 1.0.0 (3110)</a> - 06/07/2020</i><br>
 • New:  ability to duplicate settings from one side to another (see Trigger / Template)<br>
 • New : ability to define action on double click on the tracker<br>

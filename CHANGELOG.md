@@ -1,4 +1,7 @@
 # Changelog
+<i>Version 1.1.0 (4080) - 27/07/2020</i><br>
+• Various bug fixes and improvements<br>
+<br>
 <i>Version 1.0.1 (3217) - 08/07/2020</i><br>
 • Various bug fixes and improvements<br>
 <br>

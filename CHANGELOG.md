@@ -1,4 +1,8 @@
 # Changelog
+<i>Version 1.1.1 (4126) - 28/07/2020</i><br>
+• New: ability to remove 250ms delay on click (when No Action on Double click is selected)<br>
+• Various bug fixes and improvements<br>
+<br>
 <i>Version 1.1.0 (4080) - 27/07/2020</i><br>
 • Various bug fixes and improvements<br>
 <br>

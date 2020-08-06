@@ -1,4 +1,11 @@
 # Changelog
+<i>Version 1.1.2 (4432) - 06/08/2020</i><br>
+• New: option to choose size of the cursor<br>
+• New: option to choose shape of the cursor<br>
+• New: option to choose animation on cursor click<br>
+• New: live update of cursor and tracker when editing options<br>
+• Various bug fixes and improvements<br>
+<br>
 <i>Version 1.1.1 (4126) - 28/07/2020</i><br>
 • New: ability to remove 250ms delay on click (when No Action on Double click is selected)<br>
 • Various bug fixes and improvements<br>

@@ -1,4 +1,7 @@
 # Changelog
+<i>Version 1.1.5 (4522) - 09/08/2020</i><br>
+• Various bug fixes and improvements<br>
+<br>
 <i>Version 1.1.4 (4518) - 09/08/2020</i><br>
 • New: improvement for click on trigger detection<br>
 • Various bug fixes and improvements<br>

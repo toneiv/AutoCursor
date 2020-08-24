@@ -1,4 +1,7 @@
 # Changelog
+<i>Version 1.1.6 (4533) - 24/08/2020</i><br>
+• Various bug fixes and improvements<br>
+<br>
 <i>Version 1.1.5 (4522) - 09/08/2020</i><br>
 • Various bug fixes and improvements<br>
 <br>

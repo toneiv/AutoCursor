@@ -1,4 +1,7 @@
 # Changelog
+<i>Version 1.1.8 (4723) - 28/08/2020</i><br>
+• Fixed: unexpected crash in tutorial screens for Android 4.4<br>
+<br>
 <i>Version 1.1.7 (4625) - 26/08/2020</i><br>
 • Fixed: on some devices, the purchase service for the Pro version was not working properly<br>
 <br>

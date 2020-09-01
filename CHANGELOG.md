@@ -1,4 +1,8 @@
 # Changelog
+<i>Version 1.1.9 (4854) - 01/09/2020</i><br>
+• New: interface enhancements<br>
+• Various bug fixes and improvements<br>
+<br>
 <i>Version 1.1.8 (4723) - 28/08/2020</i><br>
 • Fixed: unexpected crash in tutorial screens for Android 4.4<br>
 <br>

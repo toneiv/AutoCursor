@@ -1,4 +1,7 @@
 # Changelog
+<i>Version 1.1.10 (4972) - 02/09/2020</i><br>
+• Fixed: increased blacklist compatibility (especially with games)<br>
+<br>
 <i>Version 1.1.9 (4854) - 01/09/2020</i><br>
 • New: interface enhancements<br>
 • Various bug fixes and improvements<br>

@@ -1,4 +1,8 @@
 # Changelog
+<i>Version 1.1.11 (5193) - 30/09/2020</i><br>
+• New: improvement in compatibility with Android 11<br>
+• Various bug fixes and improvements<br>
+<br>
 <i>Version 1.1.10 (4972) - 02/09/2020</i><br>
 • Fixed: increased blacklist compatibility (especially with games)<br>
 <br>

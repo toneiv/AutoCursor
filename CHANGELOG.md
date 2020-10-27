@@ -1,4 +1,9 @@
 # Changelog
+## 1.1.13 (5459) - 27/10/2020
+* New: option to hide "Auto Cursor is displaying over other apps" persistent notification (see Misc settings)
+* Fixed: compatibility with latest Google Review API
+* Fixed: error with classic and modern cursor icon in Android 4.4
+
 ## 1.1.12 (5196) - 07/10/2020
 * Various bug fixes and improvements
 

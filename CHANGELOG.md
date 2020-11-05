@@ -1,4 +1,7 @@
 # Changelog
+## 1.1.14 (5655) - 05/11/2020
+* Various bug fixes and improvements
+
 ## 1.1.13 (5459) - 27/10/2020
 * New: option to hide "Auto Cursor is displaying over other apps" persistent notification (see Misc settings)
 * Fixed: compatibility with latest Google Review API

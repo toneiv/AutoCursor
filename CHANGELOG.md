@@ -1,4 +1,8 @@
 # Changelog
+## 1.1.15 (5729) - 10/11/2020
+* New: option to choose animation on tracker click
+* Various bug fixes and improvements
+  
 ## 1.1.14 (5655) - 05/11/2020
 * Various bug fixes and improvements
 

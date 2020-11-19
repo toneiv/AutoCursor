@@ -1,4 +1,10 @@
 # Changelog
+## 1.2.0 (6400) - 19/11/2020</b><br>
+* New: option to remove the cursor by flinging it on any side of the screen (see Settings)<br>
+* New: navigation drawer<br>
+* Enhancement of interface lisibility<br>
+* Various bug fixes and improvements<br>
+
 ## 1.1.15 (5729) - 10/11/2020
 * New: option to choose animation on tracker click
 * Various bug fixes and improvements

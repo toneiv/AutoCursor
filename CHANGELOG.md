@@ -1,4 +1,9 @@
 # Changelog
+## 1.3.1 (7565) - 04/12/2020
+* Fixed: Auto Cursor is available again in settings screen in Android 10
+* Overall efficiency and fluidity improvement
+* Various bug fixes and improvements
+
 ## 1.2.1 (6522) - 20/11/2020
 * Various bug fixes and improvements
 

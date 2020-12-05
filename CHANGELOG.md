@@ -1,4 +1,7 @@
 # Changelog
+## 1.3.2 (7569) - 05/12/2020
+* Fixed: crash in tuto screen for 4.4. android version
+
 ## 1.3.1 (7565) - 04/12/2020
 * Fixed: Auto Cursor is available again in settings screen in Android 10
 * Overall efficiency and fluidity improvement

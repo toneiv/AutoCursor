@@ -1,4 +1,7 @@
 # Changelog
+## <a href="https://github.com/toneiv/AutoCursor/milestone/7">1.3.3</a> (7796 ) - 09/12/2020
+* New: cursor can be set to have no delay and thus remain on the screen until it is manually removed
+
 ## 1.3.2 (7569) - 05/12/2020
 * Fixed: crash in tuto screen for 4.4. android version
 

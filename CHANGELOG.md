@@ -1,5 +1,11 @@
 # Changelog
-## <a href="https://github.com/toneiv/AutoCursor/milestone/7">1.3.3</a> (7796 ) - 09/12/2020
+## 1.3.4 (9634) - 04/01/2021
+* New : sound feedback can be added for click and/or long click on the triggers (see Misc settings)<br>
+* New : triggers can be set to remain in portrait mode position (see Misc settings)<br>
+* New : triggers can be set to appear only in portrait or lanscape mode (see Misc settings)<br>
+* Various bug fixes and improvements<br>
+
+## <a href="https://github.com/toneiv/AutoCursor/milestone/7">1.3.3</a> (7796) - 09/12/2020
 * New: cursor can be set to have no delay and thus remain on the screen until it is manually removed
 
 ## 1.3.2 (7569) - 05/12/2020

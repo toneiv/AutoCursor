@@ -1,4 +1,10 @@
 # Changelog
+## <a href="https://github.com/toneiv/AutoCursor/milestone/8">1.3.5</a> (9459) - 08/01/2021
+* New:  possibility to choose action on cursor long click (none, long click, click, remove cursor)<br>
+* New:  possibility to choose action on cursor long click and drag (none, drag)<br>
+* New:  possibility to choose color for the cursor<br>
+* Various bug fixes and improvements<br>
+
 ## 1.3.4 (9634) - 04/01/2021
 * New : sound feedback can be added for click and/or long click on the triggers (see Misc settings)<br>
 * New : triggers can be set to remain in portrait mode position (see Misc settings)<br>

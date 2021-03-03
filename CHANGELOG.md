@@ -1,4 +1,15 @@
 # Changelog
+## 1.4.1 (11941) - 03/03/2021
+* New: possibility to add several independent triggers<br>
+* New: simplified interface for positioning triggers<br>
+* New: possibility to choose delay for long click activation on the cursor<br>
+* Improvement in click, long click and drag detection<br>
+* New: Hungarian translation thanks to István Kriskó &lt;istvan.krisko@gmail.com&gt;<br>
+* Memory footprint improvements<br>
+* Performance improvements<br>
+* Various bug fixes and improvements<br>
+* Fixed: missing translations available again<br>
+
 ## <a href="https://github.com/toneiv/AutoCursor/milestone/10">1.3.5</a> (9459) - 08/01/2021
 * New:  possibility to choose action on cursor long click (none, long click, click, remove cursor)<br>
 * New:  possibility to choose action on cursor long click and drag (none, drag)<br>

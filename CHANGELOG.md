@@ -1,4 +1,9 @@
 # Changelog
+## 1.4.2 (12901) - 22/03/2021
+* New: possibility to add a glowing halo effect on tracker
+* Improved "click & drag" functionality
+* Various bug fixes and improvements
+
 ## 1.4.1 (11941) - 03/03/2021
 * New: possibility to add several independent triggers<br>
 * New: simplified interface for positioning triggers<br>

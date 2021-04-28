@@ -1,4 +1,8 @@
 # Changelog
+## 1.4.3 (12928) - 28/04/2021
+• Fixed: compatibility issue with backup and restore on Android 11
+* Various bug fixes and improvements
+
 ## 1.4.2 (12901) - 22/03/2021
 * New: possibility to add a glowing halo effect on tracker
 * Improved "click & drag" functionality

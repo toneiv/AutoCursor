@@ -1,4 +1,7 @@
 # Changelog
+## 1.4.4 (12939) - 29/04/2021
+* Fixed: bug affecting icon color and transparency
+
 ## 1.4.3 (12928) - 28/04/2021
 • Fixed: compatibility issue with backup and restore on Android 11
 * Various bug fixes and improvements

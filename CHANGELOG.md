@@ -1,4 +1,7 @@
 # Changelog
+## 1.4.5 (12943) - 29/04/2021
+* New: possibility to reduce the long click delay of the cursor to 250 ms
+ 
 ## 1.4.4 (12939) - 29/04/2021
 * Fixed: bug affecting icon color and transparency
 

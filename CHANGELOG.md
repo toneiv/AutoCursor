@@ -1,4 +1,11 @@
 # Changelog
+## 1.4.6 (13032) - 11/10/2021
+* Update **Target API level 30 (Android 11)**
+* New: possibility to fix delay for the **Previous App Native** action (see **Choose Action** / **Actions** / **Previous App Native** then long click)
+* New: **Fixed: top of the screen** option for **Vertical reference point** (see **Auto Cursor** / **Behaviour**)
+* New: Option to temporarily turn off gestures when keyboard is showing (see **Misc** / **Keyboard Behaviour**)
+* New: Option to show the nav bar when keyboard is showing (see **Misc** / **Keyboard Behaviour**)
+ 
 ## 1.4.5 (12943) - 29/04/2021
 * New: possibility to reduce the long click delay of the cursor to 250 ms
  

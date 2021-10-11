@@ -1,5 +1,5 @@
 # Changelog
-## <a href="https://github.com/toneiv/AutoCursor/milestone/11">1.4.6</a> (13032) - 11/10/2021
+## <a href="https://github.com/toneiv/AutoCursor/milestone/12">1.4.6</a> (13032) - 11/10/2021
 * Update **Target API level 30 (Android 11)**
 * New: possibility to fix delay for the **Previous App Native** action (see **Choose Action** / **Actions** / **Previous App Native** then long click)
 * New: **Fixed: top of the screen** option for **Vertical reference point** (see **Auto Cursor** / **Behaviour**)
@@ -16,7 +16,7 @@
 • Fixed: compatibility issue with backup and restore on Android 11
 * Various bug fixes and improvements
 
-## 1.4.2 (12901) - 22/03/2021
+## <a href="https://github.com/toneiv/AutoCursor/milestone/11">1.4.2</a> (12901) - 22/03/2021
 * New: possibility to add a glowing halo effect on tracker
 * Improved "click & drag" functionality
 * Various bug fixes and improvements

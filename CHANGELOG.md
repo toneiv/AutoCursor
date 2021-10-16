@@ -1,5 +1,8 @@
 # Changelog
-## <a href="https://github.com/toneiv/AutoCursor/milestone/12">1.4.6</a> (13032) - 11/10/2021
+## 1.4.7 (13103) - 16/10/2021
+* Update **Google Play Billing Library** to 4.0.0
+ 
+ ## <a href="https://github.com/toneiv/AutoCursor/milestone/12">1.4.6</a> (13032) - 11/10/2021
 * Update **Target API level 30 (Android 11)**
 * New: possibility to fix delay for the **Previous App Native** action (see **Choose Action** / **Actions** / **Previous App Native** then long click)
 * New: **Fixed: top of the screen** option for **Vertical reference point** (see **Auto Cursor** / **Behaviour**)

@@ -1,4 +1,12 @@
 # Changelog
+## <a href="https://github.com/toneiv/AutoCursor/milestone/13">1.5.0</a> (13831) - 08/12/2021
+* New: **Recent applications** action available: including the ability to set sound and vibration on click and long click, the ability to set a blacklist (application not to be displayed in the recent menu) as well as the ability to customise columns, rows and icon size
+* New: **Previous App** action can now be used instead of **Previous App Native** action,
+* New: vibration and sound can be set for trigger (see **Misc** / **Trigger sound and vibration**)
+* New: vibration and sound can be set for cursor (see **Settings** / **Cursor sound and vibration**)
+* New: Added information to fix the bug affecting the tab group view in **Google Chrome**: this is an option available in **Chrome** when an application uses the accessibility service (see in **Google Chrome Settings** / **Accessibility** / Uncheck **Simplified view for open tabs**)
+* New: Round corner on trigger option : it is now possible to enable or disable this option (see **Trigger** / **Trigger look**)
+
 ## 1.4.7 (13103) - 16/10/2021
 * Update **Google Play Billing Library** to 4.0.0
  

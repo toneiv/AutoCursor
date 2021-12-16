@@ -1,4 +1,9 @@
 # Changelog
+## 1.5.1 (13984) - 16/12/2021
+* New: **Recent applications menu** position : the position of the menu on the screen is now configurable (see **Recent Apps** / **Size and appearance**)
+* New: Action/application/shortcut selection screens are now filterable
+* Various bug fixes and improvements<br>
+
 ## <a href="https://github.com/toneiv/AutoCursor/milestone/13">1.5.0</a> (13831) - 08/12/2021
 * New: **Recent applications** action available: including the ability to set sound and vibration on click and long click, the ability to set a blacklist (application not to be displayed in the recent menu) as well as the ability to customise columns, rows and icon size
 * New: **Previous App** action can now be used instead of **Previous App Native** action,

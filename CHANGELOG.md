@@ -1,4 +1,7 @@
 # Changelog
+## 1.5.2 (13987) - 16/12/2021
+* Fixed: bug affecting click on trigger
+
 ## 1.5.1 (13984) - 16/12/2021
 * New: **Recent applications menu** position : the position of the menu on the screen is now configurable (see **Recent Apps** / **Size and appearance**)
 * New: Action/application/shortcut selection screens are now filterable

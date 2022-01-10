@@ -1,4 +1,7 @@
 # Changelog
+## 1.5.3 (14046) - 10/01 /2021
+* Various bug fixes and improvements
+
 ## 1.5.2 (13987) - 16/12/2021
 * Fixed: bug affecting click on trigger
 

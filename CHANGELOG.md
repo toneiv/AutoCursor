@@ -1,5 +1,10 @@
 # Changelog
-## 1.5.3 (14046) - 10/01 /2021
+## 1.5.4 (14068) - 15/01/2022
+* Fixed : ability to define launcher in blacklist list
+* Fixed : Auto Cursor now works on more system screens
+* New: Ability to specify the location of the cursor on the screen when using the "Show left/right cursor" shortcut (see https://autocursor.toneiv.eu/faq.html#intent02)
+
+## 1.5.3 (14046) - 10/01/2022
 * Various bug fixes and improvements
 
 ## 1.5.2 (13987) - 16/12/2021

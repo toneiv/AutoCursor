@@ -1,4 +1,7 @@
 # Changelog
+## 1.5.5 (14107) - 31/01/2022
+* Fixed: a shift when manipulating the cursor could appear on some devices
+
 ## 1.5.4 (14068) - 15/01/2022
 * Fixed : ability to define launcher in blacklist list
 * Fixed : Auto Cursor now works on more system screens

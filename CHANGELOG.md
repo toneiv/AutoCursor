@@ -1,4 +1,8 @@
 # Changelog
+## 1.5.6 (14145) - 26/02/2022
+* Fixed: on some devices a significant delay could be observed when clicking on the tracker
+* Various bug fixes and improvements
+
 ## 1.5.5 (14107) - 31/01/2022
 * Fixed: a shift when manipulating the cursor could appear on some devices
 

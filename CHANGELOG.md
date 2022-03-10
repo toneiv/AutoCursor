@@ -1,4 +1,8 @@
 # Changelog
+## 1.5.7 (14211) - 10/03/2022
+* New: improved compatibility with native Android navigation gestures
+* Various bug fixes and improvements
+
 ## 1.5.6 (14145) - 26/02/2022
 * Fixed: on some devices a significant delay could be observed when clicking on the tracker
 * Various bug fixes and improvements

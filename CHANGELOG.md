@@ -1,4 +1,12 @@
 # Changelog
+## 1.6.2 (16147) - 16/05/2022
+* New: auto click with pointer on first release after swipe
+* New: auto click with pointer after each move
+* New: menu available on the tracker with following actions : copy text, toggle auto-click, close
+* New: Copy text action available through the tracker menu
+* New: improved animations, performance and memory footprint
+* Fixed: bad behaviour of the Toggle Auto-rotate action
+
 ## 1.5.7 (14211) - 10/03/2022
 * New: improved compatibility with native Android navigation gestures
 * Various bug fixes and improvements

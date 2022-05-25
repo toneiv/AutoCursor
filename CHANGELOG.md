@@ -1,4 +1,7 @@
 # Changelog
+## 1.6.3 (16252) - 25/05/2022
+* Various bug fixes and improvements
+
 ## 1.6.2 (16147) - 16/05/2022
 * New: auto click with pointer on first release after swipe
 * New: auto click with pointer after each move

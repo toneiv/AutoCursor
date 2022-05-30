@@ -1,4 +1,7 @@
 # Changelog
+## 1.6.4 (16623) - 30/05/2022
+* Various bug fixes and improvements
+
 ## 1.6.3 (16252) - 25/05/2022
 * Various bug fixes and improvements
 

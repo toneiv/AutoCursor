@@ -1,6 +1,10 @@
 # Changelog
-## 1.6.4 (16623) - 30/05/2022
-* Various bug fixes and improvements
+## 1.6.5 (16754) - 27/06/2022
+* New Action: **Toggle Flashlight** (Android Marshmallow and up)
+* New Action: **Scroll backward** and **Scroll forward** : can be used for example to scroll through a web page
+* Ability to set the shape of the trigger (rectangle, rectangle with round corners, line) (see **Trigger look**)
+* Ability to set the strength and colour of the halo for different state of the tracker (see **Settings** / **Color**)
+* Ability to use an intent to activate/deactivate the trigger of your choice (see **https://autocursor.toneiv.eu/faq** / **Intent/Tasker**)
 
 ## 1.6.3 (16252) - 25/05/2022
 * Various bug fixes and improvements

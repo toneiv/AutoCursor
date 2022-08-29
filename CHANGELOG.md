@@ -1,4 +1,7 @@
 # Changelog
+## 1.6.6 (17025) - 29/09/2022
+* Vibration strength can now be adjusted up to 500ms
+
 ## 1.6.5 (16754) - 27/06/2022
 * New Action: **Toggle Flashlight** (Android Marshmallow and up)
 * New Action: **Scroll backward** and **Scroll forward** : can be used for example to scroll through a web page

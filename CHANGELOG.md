@@ -1,5 +1,8 @@
 # Changelog
-## 1.6.6 (17025) - 29/09/2022
+## 1.6.7 (17071) - 12/09/2022
+* Vibration strength can now be adjusted up to 500ms
+
+## 1.6.6 (17025) - 29/08/2022
 * Vibration strength can now be adjusted up to 500ms
 
 ## 1.6.5 (16754) - 27/06/2022

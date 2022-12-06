@@ -1,4 +1,11 @@
 # Changelog
+## 1.6.8 (17605) - 06/12/2022
+* New Action: **Adjust Volume (System, Media, Notification, Ringtone or Alarm) with slider** (see **Media actions**)
+* New Action: **Adjust Brightness with slider** (see **Actions**)
+* Ability to set the thickness of a trigger to a minimum value of 5px
+* Improved management of trigger rotation
+* Various bug fixes and improvements
+ 
 ## 1.6.7 (17071) - 12/09/2022
 * Vibration strength can now be adjusted up to 500ms
 

@@ -1,4 +1,14 @@
 # Changelog
+## 1.7.0 (19094) - 04/05/2023
+* Support for the potential conflict with the tracker when a drag action is executed
+* Redesign of animations
+* New Action: **Turn off screen**
+* Improved on-screen keyboard management
+* Improved screen rotation management
+* Improved display of available widgets
+* Fixed bugs in the "Show left/right cursor" widget
+* Fixed bugs in the "Temporarily disable triggers"
+
 ## 1.6.8 (17605) - 06/12/2022
 * New Action: **Adjust Volume (System, Media, Notification, Ringtone or Alarm) with slider** (see **Media actions**)
 * New Action: **Adjust Brightness with slider** (see **Actions**)

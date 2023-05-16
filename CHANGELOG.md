@@ -1,4 +1,9 @@
 # Changelog
+## 1.7.1 (19318) - 15/05/2023
+* New option:**Keep accessibility running** tries to restore the accessibility service if it is killed by the system (see **Required permission**)
+* Better support for rooted devices
+* Various bug fixes and improvements
+
 ## 1.7.0 (19094) - 04/05/2023
 * Support for the potential conflict with the tracker when a drag action is executed
 * Redesign of animations

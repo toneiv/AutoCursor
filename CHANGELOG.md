@@ -1,4 +1,9 @@
 # Changelog
+## 1.7.2 (19334) - 17/05/2023
+* Improved management of triggers when the keyboard appears
+* The backup files now include the name of the application
+* Various bug fixes and improvements
+
 ## 1.7.1 (19318) - 15/05/2023
 * New option:**Keep accessibility running** tries to restore the accessibility service if it is killed by the system (see **Required permission**)
 * Better support for rooted devices

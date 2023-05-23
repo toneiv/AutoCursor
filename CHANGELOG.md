@@ -1,4 +1,7 @@
 # Changelog
+## 1.7.3 (19384) - 23/05/2023
+* Various bug fixes and improvements
+
 ## 1.7.2 (19334) - 17/05/2023
 * Improved management of triggers when the keyboard appears
 * The backup files now include the name of the application

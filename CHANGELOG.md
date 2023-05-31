@@ -1,4 +1,8 @@
 # Changelog
+## 1.7.4 (19437) - 31/05/2023
+* Fixed a bug in importing from backup files
+* Various bug fixes and improvements
+
 ## 1.7.3 (19384) - 23/05/2023
 * Various bug fixes and improvements
 

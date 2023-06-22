@@ -1,4 +1,10 @@
 # Changelog
+## 1.7.7 (19593) - 22/06/2023
+* Improved management of foldable Android devices
+
+## 1.7.6 (19552) - 21/06/2023
+* Various bug fixes and improvements
+  
 ## 1.7.5 (19544) - 21/06/2023
 * Improved cursor and tracker animations
 * Various bug fixes and improvements

@@ -1,11 +1,11 @@
 # Changelog
 ## 1.7.9 (19690) - 28/08/2023
 * New Action: **Select all text** to select the entire text of the text area in focus
-• New Action: **Copy text** to copy the current selection to the clipboard
-• New Action: **Cut text** to cut the current selection to the clipboard
-• Fixed a bug in importing from backup files
-• Update target API
-• Various bug fixes and improvements
+* New Action: **Copy text** to copy the current selection to the clipboard
+* New Action: **Cut text** to cut the current selection to the clipboard
+* Fixed a bug in importing from backup files
+* Update target API
+* Various bug fixes and improvements
 
 ## 1.7.7 (19593) - 22/06/2023
 * Improved management of foldable Android devices

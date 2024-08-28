@@ -1,5 +1,5 @@
 # Changelog
-## 1.7.9 (19690) - 28/08/2023
+## 1.7.9 (19690) - 28/08/2024
 * New Action: **Select all text** to select the entire text of the text area in focus
 * New Action: **Copy text** to copy the current selection to the clipboard
 * New Action: **Cut text** to cut the current selection to the clipboard

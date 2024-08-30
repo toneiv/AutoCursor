@@ -1,4 +1,7 @@
 # Changelog
+## 1.7.10 (19697) - 30/08/2024
+* Fix bugs with main Service on Android 34
+  
 ## 1.7.9 (19690) - 28/08/2024
 * New Action: **Select all text** to select the entire text of the text area in focus
 * New Action: **Copy text** to copy the current selection to the clipboard

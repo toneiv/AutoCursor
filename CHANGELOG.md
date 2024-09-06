@@ -1,4 +1,10 @@
 # Changelog
+## <a href="https://github.com/toneiv/AutoCursor/milestone/15">1.8.0</a> (19895) - 06/0*/2024
+* New option : double click for trigger action (see **Trigger actions**) (Pro version)
+* New option for revealing the trigger area in a colour of your choice when it is touched. This can be useful for triggering clicks and long clicks on the trigger area (see **Trigger actions**)
+* Shizuku support for granting Write Secure Permissions
+* In the free version, AutoCursor can now be selected from the list of applications that can be launched from the menu
+
 ## 1.7.10 (19697) - 30/08/2024
 * Fix bugs with main Service on Android 34
   

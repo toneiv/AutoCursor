@@ -1,4 +1,7 @@
 # Changelog
+## 1.10.0 (20912) - 07/07/2025
+* Graphical refresh of the interface
+  
 ## 1.9.0 (20394) - 21/05/2025
 * Possibility of adjusting color and transparency of the ring and dot part of the cursor<br>
 * Bluetooth toggle action removed for Android versions above 13<br>

@@ -1,4 +1,23 @@
 # Changelog
+## 1.11.0 (23044) - 08/06/2026
+* New Action: **Previous app** (Shizuku required)
+* New Action: **Recent apps** (Shizuku required)
+* New Action: **Kill current app** (Shizuku required)
+* New Action: **Remove current app from recent apps** (Shizuku required)
+* New Action: **Remove all apps from recent apps** (Shizuku required)
+* New Action: **Previous app** (root required)
+* New Action: **Recent apps** (root required)
+* New Action: **Kill current app** (root required)
+* New Action: **Remove current app from recent apps** (root required)
+* New Action: **Remove all apps from recent apps** (root required)
+* New option : tracker fling effect (see **Auto Cursor / Behaviour**)
+* New traduction : Japanese
+* Fix : In-app purchases were unavailable on certain versions of Android
+* Fix : improved vibration support for recent versions of Android
+* Fix : restoring preferences from a backup file could fail in certain circumstances
+* Fixed a bug that prevented PIP from triggering when using the Home action
+
+
 ## 1.10.1 (21006) - 28/08/2025
 * Update target API
 * Fixed a bug in vibration management

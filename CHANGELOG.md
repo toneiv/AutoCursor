@@ -1,4 +1,7 @@
 # Changelog
+## 1.11.1 (23164) - 12/06/2026
+* Fix: Shizuku actions were not working properly on specific versions of Android
+
 ## 1.11.0 (23044) - 08/06/2026
 * New Action: **Previous app** (Shizuku required)
 * New Action: **Recent apps** (Shizuku required)
@@ -16,7 +19,6 @@
 * Fix : improved vibration support for recent versions of Android
 * Fix : restoring preferences from a backup file could fail in certain circumstances
 * Fixed a bug that prevented PIP from triggering when using the Home action
-
 
 ## 1.10.1 (21006) - 28/08/2025
 * Update target API

@@ -1,4 +1,34 @@
 # Changelog
+## 1.12.1 (25999) - 16/09/2026
+* Improved synchronisation between the brightness slider and the system brightness slider
+* New option to fine-tune the synchronisation settings between the brightness slider and the system slider (see Volume and brightness sliders)
+* Fixed a bug affecting the long-press action on the trigger
+* Improvements to the management of the Root service
+* New languages: Turkish, Vietnamese
+
+## 1.12.0 (25631) - 31/08/2026
+* New design of the sliders and possibility to choose orientation (see Volume and brightness sliders)
+* New options : define the ‘single-click’, ‘long-click’ and ‘double-click’ actions for the list of recent apps
+* New options for Shizuku and Root in recent apps : force stop, force stop and remove from recents, force stop and restart
+* New option in recent apps : show information screen
+* New option : display the app that has focus in the list of recent apps (see Recent Apps)
+* New option : define slider background color and transparency (see Volume and brightness sliders)
+* New option : hide/show auto brightness button (see Volume and brightness sliders)
+* New option : choose position of auto brightness button (see Volume and brightness sliders)
+* New option : hide/show volume type selection button (see Volume and brightness sliders)
+* New option : choose position of volume type selection button (see Volume and brightness sliders)
+* New option : disable or enable the triggers when the notifications pane is open (see Misc)
+* New option : button to restore the default colour in the colour palettes
+* Fixed a bug that prevented the multimedia volume slider from functioning correctly under HyperOS
+* Fixed a bug affecting the use of the "Show cursor left/right" shortcuts
+* Improved detection of clicks, long clicks, double clicks on triggers
+* Fixed: the toggle tile was not available on some systems
+* Fixed: the blacklist was not working properly with certain applications
+* Fixed: incorrect display of the tutorial screen
+* Fixed : under certain circumstances, the screen might stop responding when using the volume or brightness slider
+* Memory footprint and performance improvements
+* Update target API
+
 ## 1.11.1 (23164) - 12/06/2026
 * Fix: Shizuku actions were not working properly on specific versions of Android
 
@@ -29,13 +59,13 @@
 * Graphical refresh of the interface
   
 ## 1.9.0 (20394) - 21/05/2025
-* Possibility of adjusting color and transparency of the ring and dot part of the cursor<br>
-* Bluetooth toggle action removed for Android versions above 13<br>
-* Fix : Apparition of permanent cursor on screen when editing settings<br>
-* Alphabetical sorting of application shortcuts<br>
-* Minimum trigger height set at 5%<br>
-* Maximum trigger width set at 200px<br>
-* Various bug fixes and improvements<br>
+* Possibility of adjusting color and transparency of the ring and dot part of the cursor
+* Bluetooth toggle action removed for Android versions above 13
+* Fix : Apparition of permanent cursor on screen when editing settings
+* Alphabetical sorting of application shortcuts
+* Minimum trigger height set at 5%
+* Maximum trigger width set at 200px
+* Various bug fixes and improvements
 
 ## 1.8.1 (19899) - 07/09/2024
 * Various bug fixes and improvements
@@ -150,7 +180,7 @@
 ## 1.5.1 (13984) - 16/12/2021
 * New: **Recent applications menu** position : the position of the menu on the screen is now configurable (see **Recent Apps** / **Size and appearance**)
 * New: Action/application/shortcut selection screens are now filterable
-* Various bug fixes and improvements<br>
+* Various bug fixes and improvements
 
 ## <a href="https://github.com/toneiv/AutoCursor/milestone/13">1.5.0</a> (13831) - 08/12/2021
 * New: **Recent applications** action available: including the ability to set sound and vibration on click and long click, the ability to set a blacklist (application not to be displayed in the recent menu) as well as the ability to customise columns, rows and icon size
@@ -177,7 +207,7 @@
 * Fixed: bug affecting icon color and transparency
 
 ## 1.4.3 (12928) - 28/04/2021
-• Fixed: compatibility issue with backup and restore on Android 11
+* Fixed: compatibility issue with backup and restore on Android 11
 * Various bug fixes and improvements
 
 ## <a href="https://github.com/toneiv/AutoCursor/milestone/11">1.4.2</a> (12901) - 22/03/2021
@@ -186,27 +216,27 @@
 * Various bug fixes and improvements
 
 ## 1.4.1 (11941) - 03/03/2021
-* New: possibility to add several independent triggers<br>
-* New: simplified interface for positioning triggers<br>
-* New: possibility to choose delay for long click activation on the cursor<br>
-* Improvement in click, long click and drag detection<br>
-* New: Hungarian translation thanks to István Kriskó &lt;istvan.krisko@gmail.com&gt;<br>
-* Memory footprint improvements<br>
-* Performance improvements<br>
-* Various bug fixes and improvements<br>
-* Fixed: missing translations available again<br>
+* New: possibility to add several independent triggers
+* New: simplified interface for positioning triggers
+* New: possibility to choose delay for long click activation on the cursor
+* Improvement in click, long click and drag detection
+* New: Hungarian translation thanks to István Kriskó &lt;istvan.krisko@gmail.com&gt;
+* Memory footprint improvements
+* Performance improvements
+* Various bug fixes and improvements
+* Fixed: missing translations available again
 
 ## <a href="https://github.com/toneiv/AutoCursor/milestone/10">1.3.5</a> (9459) - 08/01/2021
-* New:  possibility to choose action on cursor long click (none, long click, click, remove cursor)<br>
-* New:  possibility to choose action on cursor long click and drag (none, drag)<br>
-* New:  possibility to choose color for the cursor<br>
-* Various bug fixes and improvements<br>
+* New:  possibility to choose action on cursor long click (none, long click, click, remove cursor)
+* New:  possibility to choose action on cursor long click and drag (none, drag)
+* New:  possibility to choose color for the cursor
+* Various bug fixes and improvements
 
 ## 1.3.4 (9634) - 04/01/2021
-* New : sound feedback can be added for click and/or long click on the triggers (see Misc settings)<br>
-* New : triggers can be set to remain in portrait mode position (see Misc settings)<br>
-* New : triggers can be set to appear only in portrait or lanscape mode (see Misc settings)<br>
-* Various bug fixes and improvements<br>
+* New : sound feedback can be added for click and/or long click on the triggers (see Misc settings)
+* New : triggers can be set to remain in portrait mode position (see Misc settings)
+* New : triggers can be set to appear only in portrait or lanscape mode (see Misc settings)
+* Various bug fixes and improvements
 
 ## <a href="https://github.com/toneiv/AutoCursor/milestone/7">1.3.3</a> (7796) - 09/12/2020
 * New: cursor can be set to have no delay and thus remain on the screen until it is manually removed
